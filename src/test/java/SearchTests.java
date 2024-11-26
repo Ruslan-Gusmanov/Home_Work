@@ -12,3 +12,4 @@ public class SearchTests {
         $("[id=search]").shouldHave(text("https://ru.selenide.org"));
     }
 }
+// проверка что ssh завёлся
